@@ -84,7 +84,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background: URL("bg.jpg");
+    background: URL("https://raw.githubusercontent.com/helloAle/barbearia-Alura/main/img/bg.jpg");
     padding: 40px 0px;
 }
 
